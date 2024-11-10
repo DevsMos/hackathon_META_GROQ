@@ -1,5 +1,6 @@
 # hackathon_META_GROQ
 Llama Impact Hackathon: Brazil
+Try it NOW! https://wa.me/14155238886?text=join%20yes-nose
 https://gamma.app/docs/Apoiaai-The-evolution-in-financial-recovery-9xn6p5alhsvdgfm
 
 **Apoia.AI** is a social impact startup dedicated to providing a compassionate and innovative approach to financial recovery. Powered by LLaMa 3 and driven by the technology of **GROQ** and **CREWAI**, our platform offers a crowdfunding system that enables users in financial distress to receive anonymous support from friends and family. Donors have the freedom to choose how they can best assist in the beneficiary's journey to financial stability.
