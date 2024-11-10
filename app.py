@@ -13,7 +13,7 @@ import requests
 
 print("hellow")
 
-# Configurações das APIs (Substitua pelas suas credenciais seguras)
+# Configurações das APIs
 TWILIO_ACCOUNT_SID = "AC0a59f6fbbd9bf09609953b98d14c8b84"
 TWILIO_AUTH_TOKEN = "2f178c9a1fe785b7d9c1b3472b69909a"
 TWILIO_PHONE_NUMBER = "whatsapp:+14155238886"
