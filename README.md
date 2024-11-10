@@ -9,3 +9,5 @@ Through an easy-to-use WhatsApp interface, we deliver personalized financial edu
 Beyond financial education, Apoia.AI serves as a bridge to connect individuals with job opportunities, promoting both personal and professional growth in a way that upholds human dignity. We offer onboard programs for open finance, career development plans, and professional training in partnership with specialized schools, empowering our users to build a secure and sustainable financial future.
 
 Our mission is to transform lives by providing the tools and support needed for genuine financial recovery, generating positive and socially responsible impact within the community.
+
+Blockchain example: https://github.com/DevsMos/-Llama_Itau/tree/main
