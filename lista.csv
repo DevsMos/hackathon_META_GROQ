@@ -1,0 +1,35 @@
+Usuário,CPF,Telefone,Tipo,Nome Instituição,Valor
+André,22054122807,5511966477946,Crédito,Trabalho Remoto com Oracle,2000
+André,22054122807,5511966477946,Débito,Banco XYZ,20
+André,22054122807,5511966477946,Débito,Conta de Luz,200
+André,22054122807,5511966477946,Débito,Financiamento Itaú,900
+André,22054122807,5511966477946,Débito,Bar do Tonico,15000
+André,22054122807,5511966477946,Débito,Casa de Apostas,10
+Maria,98765432100,5511987654321,Débito,Financeira ABC,500
+Carlos,1,5511976543210,Débito,Vai de Bet,75
+Carlos,1,5511976543210,Débito,Fezinha legal,50
+Carlos,1,5511976543210,Débito,Jogo do Bicho,70
+Carlos,1,5511976543210,Débito,Imposto,750
+Carlos,1,5511976543210,Débito,Pinga 51,10
+Carlos,1,5511976543210,Débito,Bet Legal,11
+Carlos,1,5511976543210,Débito,Rinha de Galo,1000
+João,2,5511987456321,Débito,Futebol Clube Brasil,120
+João,2,5511987456321,Débito,Restaurante do Zé,85
+João,2,5511987456321,Débito,Imposto Municipal,300
+João,2,5511987456321,Débito,Bar da Esquina,60
+João,2,5511987456321,Débito,Padaria Santo Pão,25
+Ana,3,5511998765432,Débito,Churrascaria Boa Mesa,150
+Ana,3,5511998765432,Débito,Imposto de Renda,450
+Ana,3,5511998765432,Débito,Distribuidora de Bebidas,200
+Ana,3,5511998765432,Débito,Feijoada do Morro,100
+Ana,3,5511998765432,Débito,Cervejaria Artesanal,90
+José,4,5511981234567,Débito,Ingressos Futebol,80
+José,4,5511981234567,Débito,Imposto sobre Propriedade,600
+José,4,5511981234567,Débito,Supermercado Bom Preço,250
+José,4,5511981234567,Débito,Loja de Bebidas,130
+José,4,5511981234567,Débito,Bar do Zeca,75
+Fernanda,5,5511976543290,Débito,Bolão Esportivo,200
+Fernanda,5,5511976543290,Débito,Imposto Estadual,350
+Fernanda,5,5511976543290,Débito,Lanchonete da Praça,50
+Fernanda,5,5511976543290,Débito,Café da Manhã,20
+Fernanda,5,5511976543290,Débito,Vinhos e Cia,180
