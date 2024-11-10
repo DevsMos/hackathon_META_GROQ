@@ -11,3 +11,4 @@ Beyond financial education, Apoia.AI serves as a bridge to connect individuals w
 Our mission is to transform lives by providing the tools and support needed for genuine financial recovery, generating positive and socially responsible impact within the community.
 
 Blockchain example: https://github.com/DevsMos/-Llama_Itau/tree/main
+FIGMA: https://www.figma.com/design/jOo0ZlxkKLLwHoZMVm1aAN/app-mobile---vinhos?node-id=0-1&node-type=canvas&t=LJ2dVHdg5cRaFCZm-0
